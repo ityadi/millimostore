@@ -72,4 +72,3 @@ export const products: Product[] = [
     videoUrl: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Video-Ck9CgZRlDHhb1TX7jw2OD0WtTOIAvl.mp4",
   },
 ]
-
